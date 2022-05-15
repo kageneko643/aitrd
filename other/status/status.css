@@ -1,0 +1,17 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+.rogo-item {
+    font-size: 20px;    /* 文字サイズ指定 */
+    color: #02C4E3;     /* 文字色指定 */
+
+}
+.box
+{
+    padding:50px;
+}
+.rogo{
+    padding:20px;
+    font-size: 100px;
+    text-align: center;
+    color:#09d3d3
+    
+  }

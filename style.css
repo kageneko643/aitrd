@@ -1,0 +1,41 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+.rogo-item {
+    font-size: 20px;    /* 文字サイズ指定 */
+    color: #02C4E3;     /* 文字色指定 */
+
+}
+.box
+{
+    padding:50px;
+}
+
+.AITRD-ANrogo {
+    padding: 10px;
+    font-size: 20px;    /* 文字サイズ指定 */
+    color: #02C4E3;
+    display: inline-block;
+    font-size: 1000%;
+    animation: fuwafuwa 3s infinite ease-in-out .8s alternate;
+    background: url(../img/ico-apple.svg) no-repeat center center / 500px auto;
+    transition: 1.5s ease-in-out;
+  }
+
+  .rogo-item{
+    color:#02C4E3
+  }
+  .body {
+  margin:50px;
+  }
+  .rogo{
+    font-size: 100px;
+    text-align: right;
+    color:#09d3d3
+    
+  }
+  
+  .button{
+  marginauto: auto;
+  text-align: right;
+    
+  }
+  
